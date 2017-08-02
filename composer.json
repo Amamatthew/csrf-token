@@ -1,0 +1,12 @@
+{
+    "name": "thanhtaivtt/csrf-token",
+    "description": "csrf token class",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "thanhtaivtt\\csrf": "src"
+        }
+    },
+    "require": {}
+}
